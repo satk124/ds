@@ -1,5 +1,8 @@
 #!/usr/bin/python
-
+'''
+Kadane’s Algorithm:
+src: http://www.geeksforgeeks.org/largest-sum-contiguous-subarray/
+'''
 
 import sys
 
