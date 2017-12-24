@@ -16,6 +16,7 @@ def using_max_heap(ar, k):
 
     return ar[-k:]
 
+
 def using_bubble_sort(ar, k):
     ret = []
     l = len(ar)
@@ -26,6 +27,7 @@ def using_bubble_sort(ar, k):
                 ar[i+1], ar[i] = ar[i], ar[i+1]
         ret.append(ar[l-j-1])
     return ret
+
 
 def k_largest(ar, k):
      #using_bubble_sort(ar, k)
