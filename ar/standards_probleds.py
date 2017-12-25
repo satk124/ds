@@ -95,6 +95,26 @@ def three_way_partition(ar, lowVal, highVal):
             i+=1
 
 
+def kth_largest_no(ar, k):
+    #TODO 1. heap method 2. quick sort 3. randomized quick sort
+    pass
+
+
+def largest_subarray_with_equal01():
+    '''
+    :return: 
+    '''
+    pass
+
+
+def kth_smallest_in_sorted_matrix(mat):
+    # 10, 20, 30, 40
+    # 15, 25, 35, 45
+    # 24, 29, 37, 48
+    # 32, 33, 39, 50
+    # The 3rd smallest element is 20 and 7th smallest element is 30
+    pass
+
 
 def main(args):
     ar = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12]
