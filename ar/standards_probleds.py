@@ -8,6 +8,14 @@ import sys
 from my_math import gcd
 
 
+def segment_sum_query():
+    #TODO sum/min/gcd
+    pass
+
+def square_root_decomposition(ar):
+    #TODO sum/min
+    pass
+
 def juggling(d, ar=None):
     '''
     src: 
