@@ -16,8 +16,8 @@ def gcd(x, y):
 
 
 def main(args):
-    print gcd(6,8)
-    print gcd(8,6)
+    print(gcd(6,8))
+    print(gcd(8,6))
 
 if __name__ == '__main__':
     main(sys.argv)

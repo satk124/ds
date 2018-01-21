@@ -18,7 +18,7 @@ def reverse_array(A):
 def main(args):
     A = [1, 2, 3, 4, 5, 6]
     reverse_array(A)
-    print A
+    print
 
 
 if __name__ == '__main__':
